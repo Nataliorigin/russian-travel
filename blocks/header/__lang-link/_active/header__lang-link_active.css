@@ -1,0 +1,6 @@
+.lang-link_active {
+  text-decoration: underline;
+  padding-right: 14px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
