@@ -13,9 +13,7 @@
 * Медиазапросы
 
 ## **Ссылка на сайт**
-
-
-
+https://nataliorigin.github.io/Russian-travel-pub/
 ## **Версия языка**
 
 html5, CSS 3.0, BEM Nested
