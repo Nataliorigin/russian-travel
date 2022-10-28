@@ -8,6 +8,8 @@
   background: url(../../../images/trains.jpg) 50% / cover no-repeat;
   position: relative;
   z-index: 1;
+  text-decoration: none;
+  color: #fff;
 }
 @media screen and (max-width: 1124px) {
   .cover__background {
