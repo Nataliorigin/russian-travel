@@ -4,26 +4,24 @@
   font-size: 30px;
   line-height: 1.2;
   text-align: center;
-  padding: 0 20px;
 }
 
 @media screen and (max-width: 1124px) {
   .lead__subtitle {
-margin-bottom: 24px;
+    margin-bottom: 24px;
   }
 }
 @media screen and (max-width: 767px) {
   .lead__subtitle {
-font-size: 24px;
-max-width: 400px;
+    font-size: 24px;
+    max-width: 400px;
   }
 }
-@media screen and (max-width: 568px){
+@media screen and (max-width: 568px) {
   .lead__subtitle {
     margin: 8px 0 8px;
     font-size: 16px;
     line-height: 1.25;
     max-width: none;
-
   }
 }

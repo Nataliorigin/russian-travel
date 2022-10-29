@@ -1,7 +1,9 @@
-.link:hover {
-  cursor: pointer;
+.link {
+  transition: opacity 200ms ease-in-out;
   -webkit-transition: opacity 200ms ease-in-out;
   -o-transition: opacity 200ms ease-in-out;
-  transition: opacity 200ms ease-in-out;
+}
+.link:hover {
+  cursor: pointer;
   opacity: 0.8;
 }

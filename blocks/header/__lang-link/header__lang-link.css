@@ -2,5 +2,8 @@
   text-align: right;
   text-decoration: none;
 }
-
-
+.header__lang-link:first-child {
+ padding-right: 14px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}

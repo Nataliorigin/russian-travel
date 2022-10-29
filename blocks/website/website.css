@@ -1,4 +1,4 @@
-.place__website {
+.website {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -13,14 +13,14 @@
 }
 
 @media screen and (max-width: 690px) {
-  .place__website {
+  .website {
     -ms-flex-item-align: start;
     -ms-grid-row-align: start;
     align-self: start;
   }
 }
 @media screen and (max-width: 568px) {
-  .place__website {
+  .website {
     padding: 0 16px;
   }
 }
