@@ -13,7 +13,7 @@
 * Медиазапросы
 
 ## **Ссылка на сайт**
-https://nataliorigin.github.io/Russian-travel-pub/
+https://nataliorigin.github.io/russian-travel/
 ## **Версия языка**
 
 html5, CSS 3.0, BEM Nested
@@ -21,5 +21,5 @@ html5, CSS 3.0, BEM Nested
 ## **Будет реализовано в будущем**
  * Английская версия сайта с использованием кнопки переключения языка при помощи JavaScript
 
-<img src="https://aaaaa.team/media/pages/projects/5moreminutes/2548460096-1617960411/hgiz8owlfbtdif3iekbud32onedefzarhfuriqad.png" alt="Логотип Яндекс-Практикум" width="250"/>
+<img src="https://aaaaa.team/media/pages/projects/5moreminutes/2548460096-1617960411/hgiz8owlfbtdif3iekbud32onedefzarhfuriqad.png" alt="Логотип Яндекс-Практикум" width="170"/>
 
