@@ -1,9 +1,9 @@
 export const langEnArr = {
   'title': 'Traveling in Russia',
   "header__logo": "./images/header/logo-eng.svg",
-  lead: `<h1 class="lead__title">Traveling in&nbsp;Russia</h1><p class="lead__subtitle">The real country is&nbsp;not in&nbsp; news, but here.</p><figure class="lead__figure-container"><img class="lead__image" src="./images/header/lead-polka.jpg" alt="Girl sleeping on&nbsp;a&nbsp;shelf trains and route map from Pskov to&nbsp;Ulan-Ude"><figcaption class="lead__caption">your shelf is&nbsp;top</figcaption></figure>`,
+  lead: `<h1 class="lead__title">Traveling in&nbsp;Russia</h1><p class="lead__subtitle">The real country is&nbsp;not in&nbsp;news, but here.</p><figure class="lead__figure-container"><img class="lead__image" src="./images/header/lead-polka.jpg" alt="Girl sleeping on&nbsp;a&nbsp;shelf trains and route map from Pskov to&nbsp;Ulan-Ude"><figcaption class="lead__caption">your shelf is&nbsp;top</figcaption></figure>`,
   intro__body: ` <h2 class="intro__title">What’s so great about it?</h2>
-          <p class="intro__text">According to&nbsp;WCIOM polls, 95% of&nbsp;Russians dream of&nbsp;going somewhere, but only&nbsp;36% plan to&nbsp;spend their holidays in&nbsp;their native country. Like, what have we&nbsp;not seen here at&nbsp;home? In&nbsp;fact, Russia is&nbsp;a&nbsp;whole universe with the gentle sea of ​​the south, the dense forests of&nbsp;the Sayans and the harsh ice of&nbsp;the Putorana Plateau. And you can also see all these beauties without millions in&nbsp;your account, a&nbsp;passport and many hours of&nbsp;flights. Like, for example, Vera Bashmakova, a&nbsp;brave young mother who took three children in&nbsp;her arms, put them in&nbsp;her Lada and drove 20,000 kilometers across her native country. We&nbsp;have selected and described some interesting places worthy of&nbsp;your vacation.
+          <p class="intro__text">According to&nbsp;WCIOM polls, 95% of&nbsp;Russians dream of&nbsp;going somewhere, but only&nbsp;36% plan to&nbsp;spend their holidays in&nbsp;their native country. Like, what have we&nbsp;not seen here at&nbsp;home? In&nbsp;fact, Russia is&nbsp;a&nbsp;whole universe with the gentle sea of ​​the South, the dense forests of&nbsp;the Sayans and the harsh ice of&nbsp;the Putorana Plateau. And you can also see all these beauties without millions in&nbsp;your account, a&nbsp;passport and many hours of&nbsp;flights. Like, for example, Vera Bashmakova, a&nbsp;brave young mother who took three children in&nbsp;her arms, put them in&nbsp;her Lada and drove 20,000 kilometers across her native country. We&nbsp;have selected and described some interesting places worthy of&nbsp;your vacation.
           </p>
           <ul class="intro__list">
             <li><span class="intro__bold-text">Time zones</span> 11</li>
@@ -44,7 +44,7 @@ The Kaliningrad region does not end there. For the traveler and explorer, the we
           <img class="place__image" src="./images/places/kolskij.jpg"
             alt="Kola">
           <div class="place__paragraph-container">
-            <p class="place__paragraph">Almost the entire peninsula is&nbsp;located beyond the Arctic Circle. The Saami tundra, from which to&nbsp;the south is&nbsp;the taiga, and to&nbsp;the north is&nbsp;the Arctic Ocean, pretending to&nbsp;be&nbsp;the Barents Sea.</p>
+            <p class="place__paragraph">Almost the entire peninsula is&nbsp;located beyond the Arctic Circle. The Saami tundra, from which to&nbsp;the South is&nbsp;the taiga, and to&nbsp;the north is&nbsp;the Arctic Ocean, pretending to&nbsp;be&nbsp;the Barents Sea.</p>
 <p class="place__paragraph">You may have watched Zvyagintsev and even heard the story of&nbsp;the Arctic festival in&nbsp;Teriberka. Perhaps the word &laquo;Khibiny&raquo; did not remain under the snow of&nbsp;school memories of&nbsp;geography lessons. Perhaps you were not interested in&nbsp;the super-deep well penetrating the earth&rsquo;s crust, but apathy has long covered you from apatites. But your dream of&nbsp;seeing the northern lights comes true with a&nbsp;ticket to&nbsp;Murmansk.</p>
           </div>
         </article>
