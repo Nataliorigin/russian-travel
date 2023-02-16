@@ -1,4 +1,4 @@
-.intro__body {
+.lng-intro__body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -13,7 +13,7 @@
 }
 
 @media screen and (max-width: 1124px) {
-  .intro__body {
+  .lng-intro__body {
     padding: 0;
   }
 }

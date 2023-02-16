@@ -4,23 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./pages/index.css">
+    <link rel="icon" href="./images/icon.png" type="image/png">
     <title>Путешествия по России</title>
   </head>
   <body class="page">
     <!--Шапка сайта-->
     <header class="page__header header">
       <div class="header__body">
-        <img class="logo header__logo" src="./images/header/header-logo.svg"
+        <img class="logo lng-header__logo" src="./images/header/header-logo.svg"
           alt="Логотип 'Карта России'">
         <div class="header__lang-links">
-          <a class="link lang-link header__lang-link header__lang-link_active"
+          <a class="link lang-link header__lang-link lang-ru
+            header__lang-link_active"
             href="./index.html">Ru</a>
-          <a class="link lang-link header__lang-link" href="#">En</a>
+          <a class="link lang-link header__lang-link lang-en" href="#En">En</a>
         </div>
       </div>
     </header>
     <main class="content page__content">
-      <section class="content__section lead">
+      <section class="content__section lng-lead">
         <h1 class="lead__title">Путешествия по&nbsp;России</h1>
         <p class="lead__subtitle">Настоящая страна не&nbsp;в&nbsp;выпусках
           новостей, а&nbsp;здесь.
@@ -33,7 +35,7 @@
         </figure>
       </section>
       <section class="content__section intro">
-        <div class="intro__body">
+        <div class="lng-intro__body">
           <h2 class="intro__title">Чего мы&nbsp;там не&nbsp;видели?</h2>
           <p class="intro__text">По&nbsp;опросам ВЦИОМ, 95% россиян мечтают
             куда-нибудь поехать, но&nbsp;только&nbsp;36% планируют провести
@@ -121,7 +123,7 @@
           </li>
         </ul>
       </section>
-      <section class="content__section places" aria-label="Интересные места
+      <section class="content__section lng-places" aria-label="Интересные места
         России">
         <article class="places__place place">
           <h2 class="place__title">Куршская коса</h2>
@@ -269,7 +271,7 @@
           </div>
         </article>
       </section>
-      <article class="content__section cover">
+      <article class="content__section lng-cover">
         <a class="link cover__background"
           href="https://stampsy.com/na-elektrichkakh-do-baikala"
           target="_blank">
@@ -281,11 +283,19 @@
           </p>
         </a>
       </article>
+      <section
+        class="popup popup_content_open-image"
+        aria-label="popup_content_open-image">
+        <div class="popup__img-container">
+          <button type="button" class="popup__button-close"></button>
+          <img src="#" alt="Описание изображения" class="popup__img">
+        </div>
+      </section>
     </main>
     <footer class="page__footer footer">
       <div class="footer__body">
         <nav class="footer__menu">
-          <ul class="footer__links">
+          <ul class="lng-footer__links">
             <li> <a class="footer__link link" href="https://yandex.ru/maps"
                 target="_blank">Карты</a></li>
             <li> <a class="footer__link link" href="https://yandex.ru/pogoda"
@@ -298,9 +308,12 @@
                 target="_blank">Путешествия</a></li>
           </ul>
         </nav>
-        <a class="link footer__copyright" href="mailto:natalek10.07@gmail.com">&copy;&nbsp;2022.
+        <a class="link lng-footer__copyright"
+          href="mailto:natalek10.07@gmail.com">&copy;&nbsp;2022.
           Жбанкова Наталья</a>
       </div>
     </footer>
+
   </body>
+  <script src="./script.js" type="module"></script>
 </html>
