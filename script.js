@@ -21,7 +21,7 @@ class PopupWithImage {
   }
 
   _handleEscClose = (evt) => {
-    if (evt.key === escapeKey) {
+    if (evt.key === "escape") {
       this.close();
     }
   };
